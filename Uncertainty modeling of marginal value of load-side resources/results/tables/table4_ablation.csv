@@ -1,0 +1,5 @@
+Ablation variant,KL divergence (down),WD (down),Coverage (%) (up),Training time (s)
+CVAE-SP (complete model),0.032,0.34,86.4,27.0
+w/o CF (unconditional feature),0.154,1.69,77.8,25.0
+w/o KL (no KL divergence constraints),5.325,5.03,24.8,26.0
+w/o Rep (no reparameterization),0.765,14.85,100.0,25.0

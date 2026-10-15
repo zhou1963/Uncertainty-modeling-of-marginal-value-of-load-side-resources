@@ -1,0 +1,7 @@
+Typical scene number,Operating status description,Probability of occurrence,Mean marginal value($/MWh),Peak marginal value($/MWh),Volatility (standard deviation)
+S1,Late night trough period,0.221,14.05,21.27,2.25
+S2,Late night fall period,0.122,19.58,27.28,2.4
+S3,Peak lunch hour,0.1,25.86,34.51,2.66
+S4,Early peak climbing period,0.2,32.24,40.14,2.46
+S5,Afternoon rush hour,0.217,35.45,43.91,2.43
+S6,Evening peak hours,0.14,41.21,50.01,2.7

@@ -1,0 +1,4 @@
+Evaluation index,CVAE-SP,VAE-LFE,QRF-SP,CGAN,DR-MILP
+Average pair Euclidean distance (up),112.29 +/- 2.25,90.49 +/- 1.81,100.26 +/- 2.01,72.91 +/- 1.46,94.65 +/- 1.89
+Tail sample capture rate (%) (up),82.8 +/- 1.8,16.6 +/- 1.8,78.2 +/- 1.8,16.0 +/- 1.8,16.6 +/- 1.8
+"Scene coverage rate (95% CI, %) (up)",92.2 +/- 0.6,68.1 +/- 0.6,91.6 +/- 0.6,57.2 +/- 0.6,71.1 +/- 0.6
